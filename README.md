@@ -1,6 +1,6 @@
 # Pokemon-AndroidApp
 ## List Pokemon
-![My Image](GitScreen/Screenshot_1.PNG)
+![My Image](GitScreen/Screenshot_1.png)
 
 ## Desc Pokemon
-![My Image](GitScreen/Screenshot_2.PNG)
+![My Image](GitScreen/Screenshot_2.png)
